@@ -39,11 +39,19 @@ Predictive Modeling
 Reporting
 ## 💡Key Findings
 - PM2.5 and PM10 together account for over 78% of total feature importance in predicting AQI.
+
+  ![image alt](https://github.com/rajnistane/AQI-Analysis-And-Prediction/blob/68b59f7c2dede4cca87a762e7f4f3aa253c92530/Screenshot%202026-06-19%20110813.png)
 - Delhi recorded the highest average AQI (217.9) - 2.6x higher than Chennai (83.7), the cleanest city studied.
+
+![image alt](https://github.com/rajnistane/AQI-Analysis-And-Prediction/blob/039aab7e86e82648edad4ca6d627ad25eeb2fcd1/Screenshot%202026-06-19%20110257.png)
 - Delhi's poor air quality is sustained rather than occasional  it spends a large share of the year in Poor or
 worse severity bands.
 - 3 of 5 cities improved year-on-year (Kolkata -35%, Mumbai -31%, Chennai -25%), while Delhi and Bengaluru stayed flat.
+
+![image alt](https://github.com/rajnistane/AQI-Analysis-And-Prediction/blob/68b59f7c2dede4cca87a762e7f4f3aa253c92530/Screenshot%202026-06-19%20110347.png)
 -  Respiratory cases rose approximately 7x between "Good" and "Severe" AQI days.
+
+-  ![image alt](https://github.com/rajnistane/AQI-Analysis-And-Prediction/blob/68b59f7c2dede4cca87a762e7f4f3aa253c92530/Screenshot%202026-06-19%20110313.png)
 ## 🛠️Tech Stack
 | Layer              | Tool / Library                |
 | ------------------ | ----------------------------- |
